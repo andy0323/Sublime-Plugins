@@ -58,7 +58,7 @@ alias suml='open -a "Sublime Text 2"'
 | Ctrl+M             | 跳转到对应括号                           |
 | Ctrl+U             | 软撤销，撤销光标位置                      |
 | Ctrl+J             | 选择标签内容                            |
-<!--| Ctrl+F             | 查找内容                               |
+| Ctrl+F             | 查找内容                               |
 | Ctrl+Shift+F       | 查找并替换                              |
 | Ctrl+H             | 替换                                   |
 | Ctrl+R             | 前往 method                            |
@@ -79,7 +79,7 @@ alias suml='open -a "Sublime Text 2"'
 | Shift+右键拖动       | 光标多不，用来更改或插入列内容            |
 | 鼠标的前进后退键       | 可切换Tab文件                         |
 | 按Ctrl，依次点击或选取 | 可需要编辑的多个位置                    |
-| 按Ctrl+Shift+上下键   | 可替换行                             |-->
+| 按Ctrl+Shift+上下键   | 可替换行                             |
 
 ## Contact
 
